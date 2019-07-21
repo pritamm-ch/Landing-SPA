@@ -1,0 +1,13 @@
+.video-row {
+    padding: 1em 1em 2em;
+}
+.jumbotron:hover {
+    box-shadow: 2px 5px 10px 1px rgba(0,0,0,0.253) !important;
+}
+.jumbotron {
+    width: 24rem;
+}
+.player {
+    width:10%;
+    text-align: center;
+}
